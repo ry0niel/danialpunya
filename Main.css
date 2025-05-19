@@ -53,14 +53,5 @@ margin:0px auto; width:900px; }
 
 #navigation a:link {color : black}
 #navigation a:hover {color: #8B612E}
-#navigation a {text-decoration: none} 
-
-#box1 {float : left ; width : 250px;}
-#box1 {background-color: #F2DFB8 ; margin : 0px auto; width :300px; }
-
-
-#box2{float : left ; width : 250px;}	
-#box2 {background-color: #F2DFB8 ; margin : 0px auto; width :300px; }
-
-#box3{float : left ; width : 250px;}	
-#box3 {background-color: #F2DFB8 ; margin : 0px auto; width :300px; }
+#navigation a {text-decoration: none}
+					       
