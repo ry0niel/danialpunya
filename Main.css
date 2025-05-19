@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {background-color:#800040;}
+
+#Logo {float: left;}
+#icon {float: right;}
+#navigation 
+{
+	
+	clear: both;
+	border-top: solid black 1px;
+	border-bottom: solid black 1px;
+	word-spacing :30px;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+#weldow h1 
+{
+	color: #C90056 ;
+	border-bottom : solid black 0.5px;
+	padding : 20px;
+}
+
+#kanan h1
+{color: #5E4B31 ; }
+
+#kanan h2
+{color: #A26839}
+
+#kanan h3
+{color: #550026}
+
+#weldow {float : left ; width : 650px;}
+#kanan { float : right ; width: 230px;}
+#Footer {clear:both;border-top : solid  black 0.5px;text-align:center;padding-bottom:20px}
+#kotak {background-color: #FF82A8 ; margin : 0px auto; width :960px; }
+
+#KotakKotak {background-color : #FFCED6 ;
+margin:0px auto; width:900px; }
+
+#weldow img {border: solid #996D4A 5px ; padding: 10px  ; margin-right: 10px;} 
+	       
+#navigation a {color: #463015}
+#navigation a {font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+
+#kanan {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+#weldow {font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"}
+
+#navigation a:link {color : black}
+#navigation a:hover {color: #8B612E}
+#navigation a {text-decoration: none} 
+
+#box1 {float : left ; width : 250px;}
+#box1 {background-color: #F2DFB8 ; margin : 0px auto; width :300px; }
+
+
+#box2{float : left ; width : 250px;}	
+#box2 {background-color: #F2DFB8 ; margin : 0px auto; width :300px; }
+
+#box3{float : left ; width : 250px;}	
+#box3 {background-color: #F2DFB8 ; margin : 0px auto; width :300px; }
